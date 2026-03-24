@@ -1,0 +1,9 @@
+{
+  "name": "cc-iterm-paste",
+  "description": "Makes iTerm2 smart about pasting images. Cmd+V auto-detects clipboard: images are saved to /tmp and the file path is typed; text pastes normally.",
+  "version": "1.0.0",
+  "author": {
+    "name": "wallkop",
+    "email": ""
+  }
+}
